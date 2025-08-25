@@ -49,7 +49,7 @@ Dataset: [Tomato Leaf Dataset from Kaggle](https://www.kaggle.com/datasets/arjun
 ## 👩‍💻 Author
 
 **Eden Yoseph**  
-Electrical Engineering Student @ HCT | AI & Smart Systems | 4.0 GPA  
+Electrical Engineering Student @ HCT | AI & Smart Systems 
 [LinkedIn](https://linkedin.com/in/edenyoseph)
 
 ---
